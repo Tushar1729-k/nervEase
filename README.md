@@ -14,7 +14,7 @@ Tech:
 
 Business:
 - Anchit Nath
-- Mughda Konda
+- Mugdha Konda
 
 Product:
 - Faleha Quadri
